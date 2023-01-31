@@ -1,6 +1,6 @@
 # Cracked.ioServerEmulator
 
-Server Emulator for Cracked.io Auth. Made by Cabbo &amp; FaxHack/https://t.me/@OfficialChaos
+Server Emulator for https://cracked.io/ Auth. Made by https://github.com/CabboShiba &amp; https://github.com/FaxHack
 
 # How it works
 
@@ -37,7 +37,16 @@ https://t.me/OfficialChaos | https://github.com/FaxHack
 
 FreeCabbo11#9191 - https://t.me/CabboShiba | https://github.com/CabboShiba
 
+# Other Releases
+
+https://github.com/FaxHack/Cracked.ioServerEmulator
 
 # Library used
 
 https://github.com/chronoxor/NetCoreServer#example-https-server - Libray used to make the HTTPS Server.
+
+# Do you want to contact me?
+
+Discord: FreeCabbo11#9191 - New Account. Please do not contact me anymore on FreeCabbo10, it got termed.
+
+Telegram: https://t.me/cabboshiba
