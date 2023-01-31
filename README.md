@@ -47,6 +47,6 @@ https://github.com/chronoxor/NetCoreServer#example-https-server - Libray used to
 
 # Do you want to contact me?
 
-Discord: FreeCabbo11#9191 - New Account. Please do not contact me anymore on FreeCabbo10, it got termed.
+Discord: Porqwae#3952 - New Account. Please do not contact me anymore on FreeCabbo10, it got termed.
 
-Telegram: https://t.me/cabboshiba
+Telegram: https://t.me/OfficialChaos
