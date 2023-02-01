@@ -2,10 +2,6 @@
 
 Server Emulator for https://cracked.io/ Auth. Made by https://github.com/CabboShiba &amp; https://github.com/FaxHack
 
-# Status
-
-Working: 01/02/2023
-
 # How it works
 
 It starts a HTTPS Server, using NetCoreServer, after it modifies Hosts File, in order to allow HTTPS Redirection.
@@ -54,3 +50,13 @@ https://github.com/chronoxor/NetCoreServer#example-https-server - Libray used to
 Discord: Porqwae#3952 - New Account.
 
 Telegram: https://t.me/OfficialChaos
+
+# Status
+
+Working: 01/02/2023
+
+# Change Log:
+
+V 1.0 - Released Emulator
+
+V 1.1 - Added way to successfully rolled back modifications to the hosts file upon closure of the tool.
