@@ -10,6 +10,16 @@ It starts a HTTPS Server, using NetCoreServer, after it modifies Hosts File, in 
 
 It generates valid response, with random credentials. It also uses Max Rank possible, Supreme (Worth 60 $).
 
+# IS THAT A BYPASS?
+
+Absolutely NO. This program IS NOT a Cracked.io Bypass, as its purpose is only to emulate the Cracke.io Auth Server, and this can be done by every program, or even manually!
+
+So please, do not call my Emulator, a "Bypass", because you would spread false informations.
+
+It is not Cracked.io's fault. They provide a great Auth system.
+
+THIS IS NOT THE SAME EMULATION AS Cracked.io Auth "BYPASSES". THE TERM EMULATION HERE REFERS TO "EMULATING" A PUBLIC SERVER BY USING THE SAME Cracked.io auth APPLICATION INFORMATION TO MAKE THIS TOOL LOOKS LIKE THE SERVER. IT DOES NOT INTERACT WITH THE PROGRAM'S MEMORY IN ANY WAY.
+
 # How to use
 
 - Run "CertificateBypass.pfx".
@@ -60,3 +70,11 @@ Working: 01/02/2023
 V 1.0 - Released Emulator
 
 V 1.1 - Added way to successfully rolled back modifications to the hosts file upon closure of the tool.
+
+
+# DMCA VIOLATIONS
+Does this projects violates DMCA? Absolutely not.
+
+This program only show a method that can be done manually without any problem. It is basically a clone of the original cracked.io auth Server. This can be done by everyone, and it does not interact with Process Memory.
+
+It does not modify programs in any way.
