@@ -57,9 +57,9 @@ https://github.com/chronoxor/NetCoreServer#example-https-server - Libray used to
 
 # Do you want to contact me?
 
-Discord: Porqwae#3952 - New Account.
+Discord: Not Available.
 
-Telegram: Not Available
+Telegram: Not Available.
 
 # Status
 
