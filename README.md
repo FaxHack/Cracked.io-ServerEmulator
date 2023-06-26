@@ -63,7 +63,7 @@ Telegram: Not Available.
 
 # Status
 
-Working: 01/02/2023
+Working: 26/06/2023
 
 # Change Log:
 
@@ -78,3 +78,5 @@ Does this projects violates DMCA? Absolutely not.
 This program only show a method that can be done manually without any problem. It is basically a clone of the original cracked.io auth Server. This can be done by everyone, and it does not interact with Process Memory.
 
 It does not modify programs in any way.
+
+![Alt](https://repobeats.axiom.co/api/embed/228e8b240ecfc92abe2b45ab310f92dd99ae635a.svg "Repobeats analytics image")
